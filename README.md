@@ -13,7 +13,7 @@
 
 ## Data Set and the Source
 
-### The data set is an excel sheet with movies and binary classifying information (mainly genre) and numerical data (IMDB score) that is all compiled in one place. This data set was provided by Professor Arin Brahma. You can find the dataset either on this GitHub repository with movie_recommendation_data.csv or you can link it online at ([https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true](https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv)). 
+### The data set is an excel sheet with movies and binary classifying information (mainly genre) and numerical data (IMDB score) that is all compiled in one place. This data set was provided by Professor Arin Brahma that he found on the UCI Machine Learning Repository. You can find the dataset either on this GitHub repository with movie_recommendation_data.csv or you can link it online at ([https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true](https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv)). 
 
 ## Source Code Acknowledgement
 
